@@ -2,3 +2,5 @@ aprendendo a:
 utilizar o stage area 
 commitar 
 alterar commit
+
+modificando 
