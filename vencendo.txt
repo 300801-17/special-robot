@@ -3,4 +3,4 @@ utilizar o stage area
 commitar 
 alterar commit
 
-modificando 
+alterar de novo 
